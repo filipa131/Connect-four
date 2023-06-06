@@ -14,3 +14,8 @@ Features:
 - Game over conditions: The game detects when the board is full, resulting in a draw, or when a player has won, and displays the appropriate message.
 
 The project consists of two main classes: Board and Game. The Board class handles the game logic, including board initialization, drawing the board, making moves, checking for wins, and evaluating the board state. The Game class manages the game flow, such as handling user input, updating the game state, and displaying the game window.
+
+
+Video representation of the game against the computer:
+https://github.com/filipa131/Connect-four/assets/115006963/2b84393b-9df9-4981-8ce9-54e2ca236a2f
+
