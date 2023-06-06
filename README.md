@@ -1,5 +1,5 @@
 # Connect-four
-Connect Four Game using SFML and Minimax AI
+##Connect Four Game using SFML and Minimax AI
 
 This project is an implementation of the popular game Connect Four using the SFML library. The game allows two players to compete against each other or play against a computer AI. The objective of the game is to connect four discs of the same color in a row, column, or diagonal on a grid.
 
