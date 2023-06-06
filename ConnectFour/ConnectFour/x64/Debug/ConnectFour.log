@@ -1,0 +1,6 @@
+﻿  ConnectFour.cpp
+C:\Users\Lenovo\Desktop\ConnectFour\ConnectFour\ConnectFour.cpp(24,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lenovo\Desktop\ConnectFour\ConnectFour\ConnectFour.cpp(25,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lenovo\Desktop\ConnectFour\ConnectFour\ConnectFour.cpp(66,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lenovo\Desktop\ConnectFour\ConnectFour\ConnectFour.cpp(67,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  ConnectFour.vcxproj -> C:\Users\Lenovo\Desktop\ConnectFour\x64\Debug\ConnectFour.exe
